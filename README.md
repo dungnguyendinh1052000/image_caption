@@ -1,5 +1,5 @@
-Image Caption
-Using CNN + LSTM
+Image Caption.
+Using CNN + LSTM.
 Dataset:
 - File Text: https://www.mediafire.com/file/r9uuaw9mjztcwng/Flickr8k_text.zip/file
 - File Image: https://www.mediafire.com/file/3xb110vhculua7y/Flickr8k_Dataset.zip/file
